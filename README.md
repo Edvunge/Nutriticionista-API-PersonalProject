@@ -1,14 +1,25 @@
 
 # Nutritionist API PersonalProject
 
+<br>
+<br>
+<br>
+<br>
 Upgrade Hub's Personal Bootcamp Development Project Back End
 
+
+
 following the guidelines of the statement for the personal project
+
 
 
 this is an API for nutritionists, control, registration, search for nutritionists
 is a small demonstration of what I have learned so far in bootcamp
 
+<br>
+<br>
+<br>
+<br>
 
 - Controller
     - NutricionistaController
@@ -33,3 +44,8 @@ is a small demonstration of what I have learned so far in bootcamp
     - SwaggerConfig
 
 - NutritionApplication
+
+<br>
+<br>
+<br>
+<br>
